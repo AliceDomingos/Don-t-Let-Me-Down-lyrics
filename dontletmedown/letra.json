@@ -1,0 +1,276 @@
+{
+ "fonte": "lrclib.net #37540642 (Past Masters)",
+ "linhas": [
+  {
+   "t": 4.89,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao1",
+   "rep": 1
+  },
+  {
+   "t": 11.07,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao1",
+   "rep": 2
+  },
+  {
+   "t": 16.94,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao1",
+   "rep": 3
+  },
+  {
+   "t": 23.06,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao1",
+   "rep": 4
+  },
+  {
+   "t": 28.25,
+   "texto": "Nobody ever *loved* me like she does",
+   "tipo": "verso",
+   "secao": "verso1"
+  },
+  {
+   "t": 34.14,
+   "texto": "Ooh *she* does",
+   "tipo": "verso",
+   "secao": "verso1"
+  },
+  {
+   "t": 37.3,
+   "texto": "Yes she does",
+   "tipo": "verso",
+   "secao": "verso1"
+  },
+  {
+   "t": 41.66,
+   "texto": "And if somebody *loved* like she do me",
+   "tipo": "verso",
+   "secao": "verso1"
+  },
+  {
+   "t": 48.01,
+   "texto": "Ooh she *do me*",
+   "tipo": "verso",
+   "secao": "verso1"
+  },
+  {
+   "t": 50.87,
+   "texto": "Yes she does",
+   "tipo": "verso",
+   "secao": "verso1"
+  },
+  {
+   "t": 56.13,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao2",
+   "rep": 1
+  },
+  {
+   "t": 62.58,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao2",
+   "rep": 2
+  },
+  {
+   "t": 68.71,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao2",
+   "rep": 3
+  },
+  {
+   "t": 75.04,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao2",
+   "rep": 4
+  },
+  {
+   "t": 80.42,
+   "texto": "I'm in *love* for the *first time*",
+   "tipo": "ponte",
+   "secao": "ponte"
+  },
+  {
+   "t": 86.91,
+   "texto": "Don't you know it's gonna *last*?",
+   "tipo": "ponte",
+   "secao": "ponte"
+  },
+  {
+   "t": 93.06,
+   "texto": "It's a *love* that lasts forever",
+   "tipo": "ponte",
+   "secao": "ponte"
+  },
+  {
+   "t": 99.36,
+   "texto": "It's a love that has no *past*",
+   "tipo": "ponte",
+   "secao": "ponte"
+  },
+  {
+   "t": 106.25,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao3",
+   "rep": 1
+  },
+  {
+   "t": 112.51,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao3",
+   "rep": 2
+  },
+  {
+   "t": 117.27,
+   "texto": "(Ooh)",
+   "tipo": "solto",
+   "secao": "refrao3"
+  },
+  {
+   "t": 119.12,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao3",
+   "rep": 3
+  },
+  {
+   "t": 125.49,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao3",
+   "rep": 4
+  },
+  {
+   "t": 130.63,
+   "texto": "And from the first time that she really *done me*",
+   "tipo": "verso",
+   "secao": "verso2"
+  },
+  {
+   "t": 136.82,
+   "texto": "Ooh she done me",
+   "tipo": "verso",
+   "secao": "verso2"
+  },
+  {
+   "t": 140.07,
+   "texto": "She done me *good*",
+   "tipo": "verso",
+   "secao": "verso2"
+  },
+  {
+   "t": 144.49,
+   "texto": "I guess *nobody* ever really done me",
+   "tipo": "verso",
+   "secao": "verso2"
+  },
+  {
+   "t": 150.6,
+   "texto": "Ooh she done me",
+   "tipo": "verso",
+   "secao": "verso2"
+  },
+  {
+   "t": 153.81,
+   "texto": "She done me *good*",
+   "tipo": "verso",
+   "secao": "verso2"
+  },
+  {
+   "t": 159.52,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao4",
+   "rep": 1
+  },
+  {
+   "t": 164.02,
+   "texto": "Hey!!",
+   "tipo": "solto",
+   "secao": "refrao4"
+  },
+  {
+   "t": 165.8,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao4",
+   "rep": 2
+  },
+  {
+   "t": 172.09,
+   "texto": "(Hee-hee)",
+   "tipo": "solto",
+   "secao": "refrao4"
+  },
+  {
+   "t": 173.36,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao4",
+   "rep": 3
+  },
+  {
+   "t": 178.66,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao4",
+   "rep": 4
+  },
+  {
+   "t": 184.44,
+   "texto": "Please (Ow!)",
+   "tipo": "solto",
+   "secao": "refrao4"
+  },
+  {
+   "t": 191.41,
+   "texto": "(Ow!)",
+   "tipo": "solto",
+   "secao": "refrao5"
+  },
+  {
+   "t": 192.97,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao5",
+   "rep": 1
+  },
+  {
+   "t": 197.41,
+   "texto": "(Ow!)",
+   "tipo": "solto",
+   "secao": "refrao5"
+  },
+  {
+   "t": 198.62,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao5",
+   "rep": 2
+  },
+  {
+   "t": 202.74,
+   "texto": "(Can you dig it?)",
+   "tipo": "solto",
+   "secao": "refrao5"
+  },
+  {
+   "t": 204.44,
+   "texto": "Don't let me down",
+   "tipo": "grito",
+   "secao": "refrao5",
+   "rep": 3
+  }
+ ]
+}

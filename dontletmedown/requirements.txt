@@ -1,0 +1,6 @@
+pygame-ce>=2.5
+
+# so para refazer a analise de batidas (nao e preciso pra rodar o show)
+# librosa>=1.0
+# soundfile
+# numpy
